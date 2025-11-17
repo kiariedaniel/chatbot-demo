@@ -1,41 +1,65 @@
 {
-    "official pimis urls": "Live: https://pimis.treasury.go.ke  |  Training: https://pimisdev.treasury.go.ke",
+    "pimu background|pim background|history of pimu|when was pimu formed|pimu established":
+        "The Public Investment Management Unit (PIMU) was established in 2018 at The National Treasury. It was formed after diagnostic studies by the World Bank and IMF (AFRITAC East) conducted in 2016, 2017, and 2018 recommended its creation.",
 
-    "supported browsers": "Supported browsers: Safari, Firefox, Chrome, Edge, Opera. Supported devices: PC, Laptop, Tablet, Mobile (iOS/Android). Recommended browser: Latest Chrome or Edge.",
+    "pim guidelines|pim circular|when were pim guidelines issued|pim guidelines issued":
+        "The Public Investment Management (PIM) Guidelines were issued in 2020 through National Treasury Circular No.16/2019. They guide all MDAs and County Governments in managing public investment projects.",
 
-    "browsers": "Use Safari, Firefox, Chrome, Edge, or Opera. Recommended: Chrome or Edge.",
+    "pim mandate|mandate of pim|roles of pim|functions of pim|what does pim do":
+        "The mandate of PIM includes: Formulating and reviewing PIM policies and laws, building PIM capacity in national and county governments, designing and maintaining PIMIS, developing standards for project appraisal (PCN, PFS, FS), and reviewing/appraising proposed public investment projects.",
 
-    "login failing": "Common causes: 1) Wrong URL (Training vs Live), 2) Case-sensitive password, 3) Caps Lock on, 4) Account locked after 5 failed attempts. Solution: Use Password Reset or contact Help Desk.",
+    "pim objectives|objectives of pim|purpose of pim guidelines|why pim guidelines":
+        "The objectives of PIM guidelines are: Provide a standard approach to project cycle management, improve project identification and planning, guide feasibility and appraisal, support budgeting, monitoring, evaluation and reporting, ensure transparency and accountability, and strengthen prudent use of public resources.",
 
-    "why is my login failing": "Common causes: Wrong URL, Case-sensitive password, Caps Lock on, or Account locked. Solution: Use Password Reset or contact Help Desk.",
+    "scope of pim|who uses pim guidelines|where do pim guidelines apply|pim coverage":
+        "PIM Guidelines apply to: National and County Governments, all public investment projects (fully or partially funded), PPP projects, and all projects managed through PIMIS.",
 
-    "reset password": "Steps: 1) Click 'Forgot your password?' 2) Enter email (username) 3) Click Reset 4) Check email for reset link (valid for 30 minutes) 5) Set new password (min 8 chars, 1 uppercase, 1 number) 6) Log in.",
+    "what is pimis|define pimis|pimis meaning|explain pimis|pimis system":
+        "PIMIS (Public Investment Management Information System) is a government system that automates the full public investment project lifecycle — including submission, review, appraisal, approval, budgeting, monitoring, and reporting.",
 
-    "did not receive reset email": "Check Spam/Junk folder. Wait 2–3 minutes. Ensure email matches your PIMIS profile. Still missing? Raise a Help Desk ticket.",
+    "pimis mandate|role of pimis|functions of pimis|why pimis|purpose of pimis":
+        "PIMIS is designed to automate public investment management processes, maintain a national pipeline (Bank of Projects), track implementation progress, and provide a public-facing portal for transparency and monitoring.",
 
-    "no reset email": "Check Spam, wait a few minutes, confirm email is correct, or raise a Help Desk ticket.",
+    "public investment management|what is pim|explain pim|meaning of pim":
+        "Public Investment Management (PIM) refers to the systematic process of planning, appraising, selecting, budgeting, implementing, monitoring, and evaluating public investment projects.",
 
-    "create project concept note": "Steps to create PCN: Create → Fill details → Save → Upload → Submit → Forward/Return.",
+    "bank of projects|project pipeline|pipeline meaning":
+        "The Project Pipeline (Bank of Projects) is a national repository of approved, ready-for-financing projects managed under PIMIS.",
 
-    "pcn": "PCN steps: Create → Fill details → Save → Upload → Submit → Forward/Return.",
+    "pimis urls|official urls|system links|login links|website":
+        "Official PIMIS URLs:\n• LIVE System: https://pimis.treasury.go.ke\n• TRAINING Environment: https://pimisdev.treasury.go.ke\nEnsure you select the correct environment before logging in.",
 
-    "pre-feasibility": "Steps for Pre-Feasibility: Create Pre-Feasibility → Fill details → Save → Upload → Submit → Forward/Return.",
+    "supported browsers|browsers|devices|system requirements|which browser":
+        "PIMIS works on Safari, Firefox, Chrome, Edge, and Opera. Supported devices include PC, Laptop, Tablet, and Mobile (iOS/Android). Recommended browsers: Latest Google Chrome or Microsoft Edge.",
 
-    "create pre-feasibility": "Create Pre-Feasibility → Fill details → Save → Upload → Submit → Forward/Return.",
+    "login failing|cant login|unable to login|login error|sign in problem":
+        "Login may fail due to: Wrong URL (Live vs Training), incorrect or case-sensitive password, Caps Lock on, or account lock after multiple failed attempts. Use Password Reset or contact Help Desk.",
 
-    "feasibility study": "Steps for Feasibility Study: Create Feasibility → Detailed analysis (economic, social, financial) → Save → Upload → Submit → Approve/Reject.",
+    "reset password|forgot password|change password|password recovery":
+        "To reset your PIMIS password:\n1. Click 'Forgot your password?'\n2. Enter your email\n3. Check for the reset link (valid for 30 minutes)\n4. Create a new strong password\n5. Log in again.",
 
-    "create feasibility study": "Steps: Create Feasibility → Do detailed analysis → Save → Upload → Submit → Approve/Reject.",
+    "no reset email|did not receive email|no email received|reset email missing":
+        "If you did not receive the reset email: Check spam/junk folders, wait 2–3 minutes, confirm the correct email was entered. If still missing, raise a Help Desk ticket.",
 
-    "project stay in pipeline": "Approved PCNs stay awaiting funding. They are auto-moved after approval.",
+    "create pcn|project concept note|pcn process|how to create pcn":
+        "Steps to create a Project Concept Note (PCN):\n1. Click 'Create PCN'\n2. Enter required information\n3. Save\n4. Upload attachments\n5. Submit\n6. Forward/Return as required.",
 
-    "save and forward pcn": "You cannot Save & Forward if mandatory fields are not filled. Ensure all required fields are completed.",
+    "pre feasibility|pre-feasibility|create pre feasibility|pfs":
+        "To create a Pre-Feasibility Study: Open 'Create Pre-Feasibility', fill required sections, save your work, upload documents, then submit and forward for review.",
 
-    "mandatory fields": "Fill all mandatory fields before Save & Forward.",
+    "feasibility study|detailed feasibility|create feasibility|fs":
+        "To create a Feasibility Study: Click 'Create Feasibility', complete all required analysis (economic, social, financial, technical), save, upload attachments, submit, and follow approval workflow.",
 
-    "dashboard show": "Dashboard shows: Total Projects, Pending Actions (PCNs, Feasibility, Budgets), Budget Summary (KES), Progress Charts (pie, bar), Alerts & Notifications.",
+    "pipeline|project pipeline|why still in pipeline|project stage":
+        "Projects remain in Pipeline if they have approved PCNs and are awaiting funding or the next required stage.",
 
-    "menu options missing": "Menu visibility is based on Role-Based Access Control (RBAC). MDAs see their projects, counties see county projects.",
+    "save and forward|cannot forward|mandatory fields|forward issue":
+        "You cannot Save & Forward unless all mandatory fields marked with an asterisk (*) are completed.",
 
-    "why dont i see menu options": "Role-Based Access Control. Access depends on your assigned role."
+    "dashboard|dashboard summary|what dashboard shows|homepage":
+        "The PIMIS dashboard displays: Total projects, pending actions, budget summary in KES, progress charts (pie & bar), and alerts depending on your role.",
+
+    "menu missing|cant see menu|missing menu|menu options not showing|rbac":
+        "Menu visibility depends on Role-Based Access Control (RBAC). Different roles see different menus. MDAs and Counties only see modules relevant to their responsibilities. Contact an administrator if a module is missing."
+
 }
