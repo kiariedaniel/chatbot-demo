@@ -1,7 +1,7 @@
 services:
   - type: web
     name: chatbot-demo
-    runtime: php
+    env: php
     buildCommand: |
       composer install --no-dev --optimize-autoloader
       php artisan key:generate --force
