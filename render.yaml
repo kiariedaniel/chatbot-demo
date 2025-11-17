@@ -1,7 +1,7 @@
 services:
   - type: web
     name: chatbot-demo
-    env: "php"
+    env: php
     plan: free
     buildCommand: |
       composer install --no-dev --optimize-autoloader
@@ -9,8 +9,8 @@ services:
     autoDeploy: true
     envVars:
       - key: APP_ENV
-        value: "production"
+        value: production
       - key: APP_DEBUG
-        value: "true"
+        value: true
       - key: APP_KEY
-        value: "base64:2qkZw6izXeK2aws6GdoZ5D+/J/bL3X5k0ZSHdO5U3wM="
+        value: base64:2qkZw6izXeK2aws6GdoZ5D+/J/bL3X5k0ZSHdO5U3wM=
