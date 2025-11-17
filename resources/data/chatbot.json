@@ -1,15 +1,13 @@
 {
     "start": {
-        "message": "Hello! I’m your PIMIS Guided Support Assistant.
-                    How may I assist you today?
+    "message": "Hello! I’m your PIMIS Guided Support Assistant.\n\nHow may I assist you today?\n\nPlease type your question in the text box below, and I’ll provide the information you need.",
+    "options": [
+        { "label": "About This System", "goto": "about" },
+        { "label": "How It Works", "goto": "how" },
+        { "label": "Contact Support", "goto": "contact" }
+    ]
+},
 
-                    Please type your question in the text box below, and I’ll provide the information you need",
-        "options": [
-            { "label": "About This System", "goto": "about" },
-            { "label": "How It Works", "goto": "how" },
-            { "label": "Contact Support", "goto": "contact" }
-        ]
-    },
 
     "about": {
         "message": "This is a guided chatbot.",
