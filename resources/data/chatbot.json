@@ -1,6 +1,6 @@
 {
     "start": {
-        "message": "Hello! I'm your guided chatbot. What would you like to learn?",
+        "message": "Hello! I'm your guided chatbot. What would you like to about PIMIS?",
         "options": [
             { "label": "About This System", "goto": "about" },
             { "label": "How It Works", "goto": "how" },
