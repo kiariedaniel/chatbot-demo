@@ -1,0 +1,41 @@
+{
+    "official pimis urls": "Live: https://pimis.treasury.go.ke  |  Training: https://pimisdev.treasury.go.ke",
+
+    "supported browsers": "Supported browsers: Safari, Firefox, Chrome, Edge, Opera. Supported devices: PC, Laptop, Tablet, Mobile (iOS/Android). Recommended browser: Latest Chrome or Edge.",
+
+    "browsers": "Use Safari, Firefox, Chrome, Edge, or Opera. Recommended: Chrome or Edge.",
+
+    "login failing": "Common causes: 1) Wrong URL (Training vs Live), 2) Case-sensitive password, 3) Caps Lock on, 4) Account locked after 5 failed attempts. Solution: Use Password Reset or contact Help Desk.",
+
+    "why is my login failing": "Common causes: Wrong URL, Case-sensitive password, Caps Lock on, or Account locked. Solution: Use Password Reset or contact Help Desk.",
+
+    "reset password": "Steps: 1) Click 'Forgot your password?' 2) Enter email (username) 3) Click Reset 4) Check email for reset link (valid for 30 minutes) 5) Set new password (min 8 chars, 1 uppercase, 1 number) 6) Log in.",
+
+    "did not receive reset email": "Check Spam/Junk folder. Wait 2–3 minutes. Ensure email matches your PIMIS profile. Still missing? Raise a Help Desk ticket.",
+
+    "no reset email": "Check Spam, wait a few minutes, confirm email is correct, or raise a Help Desk ticket.",
+
+    "create project concept note": "Steps to create PCN: Create → Fill details → Save → Upload → Submit → Forward/Return.",
+
+    "pcn": "PCN steps: Create → Fill details → Save → Upload → Submit → Forward/Return.",
+
+    "pre-feasibility": "Steps for Pre-Feasibility: Create Pre-Feasibility → Fill details → Save → Upload → Submit → Forward/Return.",
+
+    "create pre-feasibility": "Create Pre-Feasibility → Fill details → Save → Upload → Submit → Forward/Return.",
+
+    "feasibility study": "Steps for Feasibility Study: Create Feasibility → Detailed analysis (economic, social, financial) → Save → Upload → Submit → Approve/Reject.",
+
+    "create feasibility study": "Steps: Create Feasibility → Do detailed analysis → Save → Upload → Submit → Approve/Reject.",
+
+    "project stay in pipeline": "Approved PCNs stay awaiting funding. They are auto-moved after approval.",
+
+    "save and forward pcn": "You cannot Save & Forward if mandatory fields are not filled. Ensure all required fields are completed.",
+
+    "mandatory fields": "Fill all mandatory fields before Save & Forward.",
+
+    "dashboard show": "Dashboard shows: Total Projects, Pending Actions (PCNs, Feasibility, Budgets), Budget Summary (KES), Progress Charts (pie, bar), Alerts & Notifications.",
+
+    "menu options missing": "Menu visibility is based on Role-Based Access Control (RBAC). MDAs see their projects, counties see county projects.",
+
+    "why dont i see menu options": "Role-Based Access Control. Access depends on your assigned role."
+}

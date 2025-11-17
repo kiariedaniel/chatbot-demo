@@ -1,0 +1,74 @@
+{
+    "start": {
+        "message": "Hello! I'm your guided demo chatbot. What would you like to learn?",
+        "options": [
+            { "label": "About This System", "goto": "about" },
+            { "label": "How It Works", "goto": "how" },
+            { "label": "Contact Support", "goto": "contact" }
+        ]
+    },
+
+    "about": {
+        "message": "This is a demo guided chatbot created in Laravel. It uses a JSON file for steps.",
+        "options": [
+            { "label": "Back to Start", "goto": "start" }
+        ]
+    },
+
+    "how": {
+        "message": "The chatbot reads your questions from a JSON file and returns predefined answers.",
+        "options": [
+            { "label": "Back to Start", "goto": "start" }
+        ]
+    },
+
+    "contact": {
+        "message": "You can contact support at support@example.com.",
+        "options": [
+            { "label": "Back to Start", "goto": "start" }
+        ]
+    }
+
+    ,
+
+"login_category": {
+    "message": "Login Help — choose your issue:",
+    "options": [
+        { "label": "Login failing", "goto": "login_failing" },
+        { "label": "Password reset", "goto": "reset_password" },
+        { "label": "No reset email", "goto": "no_reset_email" },
+        { "label": "Back to Start", "goto": "start" }
+    ]
+},
+"pcn_category": {
+    "message": "PCN Help options:",
+    "options": [
+        { "label": "Create PCN", "goto": "create_pcn" },
+        { "label": "Save & Forward Issue", "goto": "save_forward" },
+        { "label": "Back to Start", "goto": "start" }
+    ]
+},
+"feasibility_category": {
+    "message": "Choose feasibility help:",
+    "options": [
+        { "label": "Pre-Feasibility", "goto": "prefeasibility" },
+        { "label": "Feasibility Study", "goto": "feasibility" },
+        { "label": "Back to Start", "goto": "start" }
+    ]
+},
+"dashboard_category": {
+    "message": "Dashboard overview:",
+    "options": [
+        { "label": "What Dashboard shows", "goto": "dashboard_info" },
+        { "label": "Back to Start", "goto": "start" }
+    ]
+},
+"rbac_category": {
+    "message": "Role-Based Access controls menu:",
+    "options": [
+        { "label": "Missing menu items", "goto": "missing_menu" },
+        { "label": "Back to Start", "goto": "start" }
+    ]
+}
+
+}
