@@ -9,21 +9,21 @@
     },
 
     "about": {
-        "message": "This is a demo guided chatbot created in Laravel. It uses a JSON file for steps.",
+        "message": "This is a guided chatbot.",
         "options": [
             { "label": "Back to Start", "goto": "start" }
         ]
     },
 
     "how": {
-        "message": "The chatbot reads your questions from a JSON file and returns predefined answers.",
+        "message": "The chatbot reads your questions and returns predefined answers.",
         "options": [
             { "label": "Back to Start", "goto": "start" }
         ]
     },
 
     "contact": {
-        "message": "You can contact support at support@example.com.",
+        "message": "You can contact support at pimis@treasury.go.ke.",
         "options": [
             { "label": "Back to Start", "goto": "start" }
         ]
